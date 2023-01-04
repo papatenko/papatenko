@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Justin Kondratenko</h1>
+<h1 align="center">Hi 👋, I'm Justin K</h1>
 <h3 align="center">A passionate student in the arts of back-end website development.</h3>
-<img align="right" alt="Coding" width="400" src="https://bnz05pap001files.storage.live.com/y4mEWvH7c12-1bouu5KbYNXj5FrgEHLpbYVV-7KK12iO78BXwFkX3LUjEdgwx19zGpjVJvS2noUOGzi6c6N3kp2L9c5mkSyJ_mVf-KdhxKaNwdSygXT4JYf0nJ8b3e2XxtpXXEsUbzWj1BDVIoWfcZ0VK5LuvMWDwtnDmKYNedyDWVSOxJFDR2nQ89C4Y2tsECy?width=256&height=255&cropmode=none">
+<img align="right" alt="Coding" width="350" src="https://bnz05pap001files.storage.live.com/y4mX2Hm50mgq-rz6aFU9fsVbyBJvUqK5foAzVoQp-QEeht2gtceFcpHVKj8TvQnEbwmOqAtR4Krd6wHxvnWfi0eXhfnh7ZfzXfPbQciy_IRBecHn0Mn0-15NhZt3RgZUYFgRXaYbeGRqREtKa2bzb197jth-ogWnkSYvVe3JeWHSSbfErTv-eEeot0kOh9dwQ5o?width=500&height=500&cropmode=none">
 
 - 🔭 I’m currently working on **VFX Generation Website**
 
