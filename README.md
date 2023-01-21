@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Justin K</h1>
+<h1 align="center">Hi 👋, I'm Justin Kondratenko</h1>
 <h3 align="center">A passionate student in the arts of web. development.</h3>
 <img align="right" alt="Coding" width="350" src="https://bnz05pap001files.storage.live.com/y4mX2Hm50mgq-rz6aFU9fsVbyBJvUqK5foAzVoQp-QEeht2gtceFcpHVKj8TvQnEbwmOqAtR4Krd6wHxvnWfi0eXhfnh7ZfzXfPbQciy_IRBecHn0Mn0-15NhZt3RgZUYFgRXaYbeGRqREtKa2bzb197jth-ogWnkSYvVe3JeWHSSbfErTv-eEeot0kOh9dwQ5o?width=500&height=500&cropmode=none">
 
