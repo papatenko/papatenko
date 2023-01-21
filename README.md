@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, and Frameworks later on.**
 
-- 💬 Ask me about **Android Studio, Java, Servers, and Linux**
+- 💬 Ask me about **Video Editing, Android Studio, Java, Servers, and Linux**
 
 - 📫 How to reach me **jkcondor13@gmail.com**
 
