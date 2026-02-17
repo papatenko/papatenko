@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Justin Kondratenko from Houston, Texas.<br><br>- 🔭 I’m working as a student at the University of Houston.<br>- 📚 I'm currently learning CPP, Python, and OpenGL in school.<br>- ⚡ In my free time, I create websites with React, Typescript, and run Linux servers to host my websites and services.</p>
+<p align="left">I'm Justin Kondratenko from Houston, Texas.<br><br>- 🔭 I’m working as a student at the University of Houston.<br>- 📚 I'm currently learning Machine Learning, Database Systems, and Algorithms in school.<br>- ⚡ In my free time, I create websites with React, Typescript, and run Linux servers to host my websites and services.</p>
 
 ###
 
