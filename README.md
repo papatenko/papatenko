@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">1. <a href="https://rps.papatenko.org/">Rock Paper Scissors Tournament</a> <a href="https://www.youtube.com/watch?v=pilOqmKyrKA">[Showcase]</a><br>2. <a href="https://papatenko.org/">Portfolio</a> (Currently only has my digital arts)<br>3. <a href="https://papatenko-odin.netlify.app/">My Odin Projects</a><br>4. <a href="https://www.youtube.com/watch?v=2MJSU2w7vdk">Doom Eternal MP3 Player</a><br></p>
+<p align="left">1. <a href="https://rps.papatenko.org/">Rock Paper Scissors Tournament</a> ~ Competitive tournament with an retro theme! <a href="https://www.youtube.com/watch?v=pilOqmKyrKA">[Showcase]</a><br>2. <a href="https://papatenko.org/">Portfolio</a> ~ My digital arts gallery on full display! <i>(Will add projects eventually...)</i> <br>3. <a href="https://papatenko-odin.netlify.app/">Odin Projects</a> ~ Vanilla Webdev projects that helped propel me to learn the basics!<br>4. <a href="https://www.youtube.com/watch?v=2MJSU2w7vdk">Doom Eternal MP3 Player</a> ~ Probably my greatest acheivement in high school<br></p>
 
 
 <h3 align="left">🛠 Language and tools</h3>
