@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/justinkondratenko/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/papatenk0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
   <a href="https://devpost.com/jkcondor13" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Devpost&logo=twitter&label=&color=003E54&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devpost logo"  />
   </a>
